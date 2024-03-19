@@ -1,0 +1,4 @@
+opencv-python
+ultralytics
+pygame
+google-cloud-bigquery
